@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sit5721_lib")(type "KiCad")(uri "${KIPRJMOD}/sit5721_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "i2c_1602_lib")(type "KiCad")(uri "${KIPRJMOD}/i2c_1602_lib.kicad_sym")(options "")(descr ""))
+  (lib (name "sit92216_lib")(type "KiCad")(uri "${KIPRJMOD}/sit92216_lib.kicad_sym")(options "")(descr ""))
+)
