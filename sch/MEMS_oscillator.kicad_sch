@@ -751,6 +751,11 @@
     (uuid fcfbdd8f-5785-4ec1-8b23-aec713a6eee4)
   )
 
+  (text "Depending in use of mux on top sheet, \nBUFFERING MAY BE NEEDED DUE TO LOAD PULL. \nLoading on CLK-port seems to cause extra\nheating in SiT5721. Output amplifier probably\nlocated near or in heated mems structure."
+    (at 167.64 99.06 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 250c3fa2-43a6-4d37-80d5-6843ca520e00)
+  )
   (text "Place referece thermally isolated on pcb. \nWith provisions for enclosure to protect\nfrom draught"
     (at 115.57 109.22 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
